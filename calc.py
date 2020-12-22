@@ -13,7 +13,7 @@ presin = 0  # Pressure    at input conditions
 presout = 0  # Pressure    at output conditions
 sil = 50  # Concentration of silicate  in the sample (in umol/kg)
 po4 = 2  # Concentration of phosphate in the sample (in umol/kg)
-pHscale = 1  # pH scale at which the input pH is reported ("1" means "Total Scale")
+pHscale = 3  # pH scale at which the input pH is reported ("1" means "Total Scale") ("3" means Free Scale)
 k1k2c = 4  # Choice of H2CO3 and HCO3- dissociation constants K1 and K2 ("4" means "Mehrbach refit")
 kso4c = 1  # Choice of HSO4- dissociation constants KSO4 ("1" means "Dickson")
 
